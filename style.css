@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: gold;
+    color: white;
+}
+#appsCode{
+    background: linear-gradient(#4682B4 20%, #FF4500 80%);
+    width: 100%;
+    height: 800px;
+}
+#gamesCode{
+    background: linear-gradient(#4682B4 20%, #FFFF00 80%);
+    width: 100%;
+    height: 800px;
+}
